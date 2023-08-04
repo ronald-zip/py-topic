@@ -1,4 +1,5 @@
 # Solve problem Frizz Buzz
+# Imprimir en pantalla la palabra Frizz cuando un numero sea multiplo de 3, Buzz cuando sea multiplo de 5 y FrizzBuzz cuando sea multiplo de 15
 
 def FrizBuzz():
     x = range(101)
